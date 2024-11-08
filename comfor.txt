@@ -1,0 +1,11 @@
+no1=a+bi   no2=c+di
+1)Add:- 
+    (a+c) + (b+d)i
+2)Sub:-
+    (a-c) + (b-d)i
+3)Mul:-
+    (ac-bd) + (ad+bc)
+4)Div:-
+    (ac+bd) + (bc-ad)i
+    -------------------
+       c^2 + d^2
